@@ -60,4 +60,18 @@ h1 {
   background-color: white;
 }
 
-  
+.gr-btn {
+  color: red;
+}
+
+.rd-btn {
+  color: green;
+}
+
+.blk-btn {
+  color: white;
+}
+
+.wht-btn {
+  color: black;
+}
