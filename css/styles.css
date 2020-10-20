@@ -1,0 +1,44 @@
+h1 {
+  color: rgb(255, 0, 255);
+}
+
+.green-background {
+  background-color: green;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+#green {
+  color: red;
+  background-color: green;
+}
+
+#red {
+  color: green;
+  background-color: red;
+}
+
+#black  {
+  color: white;
+  background-color: black;
+}
+
+#white  {
+  color: black;
+  background-color: white;
+}
+
+
+  
