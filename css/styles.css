@@ -1,5 +1,5 @@
 h1 {
-  color: rgb(255, 0, 255);
+  color: rgb(255, 187, 0);
 }
 
 .green-background {
@@ -21,11 +21,21 @@ h1 {
 }
 
 #green {
+  color: white;
+  background-color: black;
+}
+
+#green:hover {
   color: red;
   background-color: green;
 }
 
 #red {
+  color: white;
+  background-color: black;
+}
+
+#red:hover {
   color: green;
   background-color: red;
 }
@@ -35,10 +45,19 @@ h1 {
   background-color: black;
 }
 
-#white  {
+#black:hover {
   color: black;
   background-color: white;
 }
 
+#white  {
+  color: white;
+  background-color: black;
+}
+
+#white:hover {
+  color: black;
+  background-color: white;
+}
 
   
